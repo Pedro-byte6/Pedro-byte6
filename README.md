@@ -8,7 +8,7 @@
 
 
 
-## technologies that I use in my day 🖥️
+## technologies that I use in my day
 
 ![html5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 
@@ -16,9 +16,9 @@
 
 
 
-## analysis of program usage 💹
+## analysis of program usage
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-byte6&layout=donut)](https://github.com/pedro/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Pedro stats](https://github-readme-stats.vercel.app/api/?username=Pedro-byte6)](https://github.com/Pedro/github-readme-stats)
