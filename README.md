@@ -23,6 +23,20 @@
 [![Pedro stats](https://github-readme-stats.vercel.app/api/?username=Pedro-byte6)](https://github.com/Pedro/github-readme-stats)
 
 
-## About me 😉
+## About me 🔰
 
-I am Pedro Henrique, I am 16 years old and I am in the second year of high school. My school has a technical course with certification in IT, where I learn HTML, JAVA, and BRMODELO. I would like to have a remote job and earn a good amount of money that provides me with plenty. I want to be a game or website programmer.
+Looking for an internship opportunity in the Technology field!
+
+My name is Pedro, I'm 18 years old, and I am a Computer Technician, with an interest in technology, development, and the IT field.
+During my training, I had contact with different areas of computing and sought to develop both my technical knowledge and my ability to solve problems and learn new things.
+Right now, I am looking for an internship opportunity where I can put my knowledge into practice, learn from professionals in the field, and continue growing professionally.
+
+I am interested in opportunities related to:
+💻 Software Development
+🖥️ Support and Infrastructure
+🌐 Information Technology
+📊 Other areas related to IT
+
+I am open to exploring new areas and challenges.
+
+If you know of any opportunities or can recommend me for a position, I would be very grateful!
